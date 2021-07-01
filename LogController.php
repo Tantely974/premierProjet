@@ -32,6 +32,6 @@ class LogController extends Controller
 
         return new Response('', Response::HTTP_NO_CONTENT);
 
-        //je sais pas pourquoi tu fais ça Mika
+        //je sais pas pourquoi tu fais ça Mikaaaaaaaaaaaaaaaaaaaaa 
     }
 }
